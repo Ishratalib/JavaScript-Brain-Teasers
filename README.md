@@ -135,5 +135,5 @@ Some questions are commented out for practice, while the file can be used to pro
 
 ⭐ A small collection of tricky JavaScript questions for improving understanding of objects, references, copying, and memory behavior.
 
-*Author*
+##Author
 Ishrat Talib
