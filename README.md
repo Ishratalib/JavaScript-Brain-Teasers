@@ -6,8 +6,6 @@ This repository is created for practicing JavaScript concepts through small, tri
 
 ## 📚 Topics Covered
 
-The questions in this file cover concepts such as:
-
 * Primitive values
 * Objects and references
 * Assignment and reference behavior
@@ -37,14 +35,14 @@ The questions in this file cover concepts such as:
 JavaScript-Brain-Teasers/
 │
 ├── 1.js
-
+└── README.md
 ```
 
 ## 🧩 What's Inside `1.js`
 
 The `1.js` file contains a series of JavaScript brain teasers where the goal is to predict what the code will produce.
 
-The questions are organized around different levels of JavaScript behavior:
+The questions cover different levels of JavaScript behavior, including:
 
 ### 1. Primitives & Value Types
 
@@ -61,8 +59,6 @@ Examples using:
 * Spread syntax
 * `Object.assign()`
 
-These demonstrate how shallow copies behave, especially with nested objects.
-
 ### 4. Deep Copy
 
 Examples involving:
@@ -70,11 +66,9 @@ Examples involving:
 * JSON-based copying
 * `structuredClone()`
 
-These questions help compare shallow and deep copying behavior.
-
 ### 5. Advanced Memory Traps
 
-Questions involving concepts such as:
+Questions involving:
 
 * Circular references
 * `WeakRef`
@@ -84,7 +78,7 @@ Questions involving concepts such as:
 
 ### 6. Mixed & Tricky Combos
 
-A combination of different JavaScript concepts designed to test whether the underlying behavior is fully understood.
+A combination of different JavaScript concepts designed to test understanding of JavaScript behavior.
 
 ## 🎯 Purpose
 
@@ -108,8 +102,6 @@ You can run `1.js` using Node.js:
 node 1.js
 ```
 
-Or run it through your preferred JavaScript environment.
-
 ## 📝 Practice Approach
 
 Don't immediately run the code.
@@ -119,8 +111,6 @@ First try to answer:
 > **"What will this code output, and why?"**
 
 Then execute it and compare your answer.
-
-This makes the exercises more useful for understanding JavaScript's behavior rather than simply memorizing outputs.
 
 ## 🛠️ Technologies
 
@@ -133,7 +123,8 @@ Some questions are commented out for practice, while the file can be used to pro
 
 ---
 
-⭐ A small collection of tricky JavaScript questions for improving understanding of objects, references, copying, and memory behavior.
+## 👩‍💻 Author
 
-##Author
-Ishrat Talib
+**Ishrat Ali**
+
+---
