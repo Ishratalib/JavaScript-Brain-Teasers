@@ -125,6 +125,6 @@ Some questions are commented out for practice, while the file can be used to pro
 
 ## 👩‍💻 Author
 
-**Ishrat Ali**
+**Ishrat Talib**
 
 ---
