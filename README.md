@@ -1,10 +1,21 @@
-# JavaScript Brain Teasers 🧠
+# JavaScript Brain Teasers
 
 A collection of JavaScript brain teasers and output-prediction questions focused on understanding how JavaScript handles **values, references, objects, copying, mutation, and memory**.
 
 This repository is created for practicing JavaScript concepts through small, tricky code examples.
 
-## 📚 Topics Covered
+## Live Demo
+
+No live demo available. This is a console-based JavaScript practice project.
+
+## Technologies Used
+
+* JavaScript
+* Node.js
+
+---
+
+## Topics Covered
 
 * Primitive values
 * Objects and references
@@ -29,7 +40,9 @@ This repository is created for practicing JavaScript concepts through small, tri
 * Reference assignment
 * Mixed and tricky JavaScript combinations
 
-## 📁 File Structure
+---
+
+## File Structure
 
 ```text
 JavaScript-Brain-Teasers/
@@ -38,7 +51,9 @@ JavaScript-Brain-Teasers/
 └── README.md
 ```
 
-## 🧩 What's Inside `1.js`
+---
+
+## What's Inside `1.js`
 
 The `1.js` file contains a series of JavaScript brain teasers where the goal is to predict what the code will produce.
 
@@ -80,7 +95,9 @@ Questions involving:
 
 A combination of different JavaScript concepts designed to test understanding of JavaScript behavior.
 
-## 🎯 Purpose
+---
+
+## Purpose
 
 The main purpose of this repository is to practice **predicting JavaScript behavior before running the code**.
 
@@ -92,7 +109,9 @@ For each question:
 4. Run the code to verify your prediction.
 5. Understand why the output occurs.
 
-## ▶️ How to Run
+---
+
+## How to Run
 
 This is a **console-based JavaScript practice file**.
 
@@ -102,7 +121,9 @@ You can run `1.js` using Node.js:
 node 1.js
 ```
 
-## 📝 Practice Approach
+---
+
+## Practice Approach
 
 Don't immediately run the code.
 
@@ -112,19 +133,14 @@ First try to answer:
 
 Then execute it and compare your answer.
 
-## 🛠️ Technologies
+---
 
-* JavaScript
-* Node.js
-
-## 📌 Note
+## Note
 
 Some questions are commented out for practice, while the file can be used to progressively work through the different brain teasers.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Ishrat Talib**
-
----
